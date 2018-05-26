@@ -20,4 +20,3 @@ class Post
   end
 
 end
-

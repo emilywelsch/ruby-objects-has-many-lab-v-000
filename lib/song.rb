@@ -1,4 +1,4 @@
-$@@all = []
+$all = []
 
 class Song
   attr_accessor :name, :artist
